@@ -1,0 +1,19 @@
+#msgTxt{
+	width: 430px;
+	display: inline;
+}
+
+#messages{
+	width: 500px;
+	margin-bottom:10px;
+	margin-top: 10px;
+	height:400px;
+	border: 1px solid black;
+	border-radius: 3px;
+}
+
+#chatBox{
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+}
